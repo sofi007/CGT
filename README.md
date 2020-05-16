@@ -1,12 +1,12 @@
-                *************************************************************************************
-              Description of OS, Language, Data and Code for Triangle counting and enumerating Algorithm on Prime Graph
+            *************************************************************************************
+    Description of OS, Language, Data and Code for Triangle counting and enumerating Algorithm on Prime Graph
 
 * Paper: An efficient exact algorithm for triangle listing in large graphs. Data Mining and Knowledge Discovery, Volume 30
 
 (5): 1350-1369 (2016)
 * Authors: Sofiane Lagraa, Hamida Seba:
 
-                *************************************************************************************
+           *************************************************************************************
 
 
 
@@ -79,6 +79,4 @@ Example of prime graph:
 9 10
 
 
-------------
-|Enjoy :-) |
-------------
+
