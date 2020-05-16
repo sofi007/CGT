@@ -49,34 +49,31 @@ The two parts are separated by the symbole '#'.
 
 Example of prime graph:
 
-0 Premier
-1 Parallele
-2 11
-2 12
-1 Parallele
-2 Serie
-3 8
-3 9
-2 10
-1 7
-1 Premier
-2 6
-2 5
-2 3
-2 4
-1 0
-1 Serie
-2 2
-2 1
-#
-1 4
-10 16
-11 12
-12 14
-13 14
-15 16
-4 9
-9 10
-
-
-
+0 Premier  
+1 Parallele  
+2 11  
+2 12  
+1 Parallele  
+2 Serie  
+3 8  
+3 9  
+2 10  
+1 7  
+1 Premier  
+2 6  
+2 5  
+2 3  
+2 4  
+1 0  
+1 Serie  
+2 2  
+2 1  
+#  
+1 4  
+10 16  
+11 12  
+12 14  
+13 14  
+15 16  
+4 9  
+9 10  
